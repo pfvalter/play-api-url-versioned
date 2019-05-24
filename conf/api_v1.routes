@@ -1,0 +1,2 @@
+# An example controller with 2 end-points
+GET     /dummy/:id                  controllers.v1.Controller.dummy(id: String)
